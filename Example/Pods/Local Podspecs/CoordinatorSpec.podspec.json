@@ -1,0 +1,27 @@
+{
+  "name": "CoordinatorSpec",
+  "version": "0.1.0",
+  "summary": "A short description of CoordinatorSpec.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Anupsahutw/CoordinatorSpec",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Anupsahutw": "anup.sahu@thoughtworks.com"
+  },
+  "source": {
+    "git": "https://github.com/Anupsahutw/CoordinatorSpec.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "CoordinatorSpec/Classes/**/*",
+  "resource_bundles": {
+    "Resources": [
+      "CoordinatorSpec/Assets/flower.jpg"
+    ]
+  }
+}
