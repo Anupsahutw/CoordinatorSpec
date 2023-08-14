@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'CoordinatorSpec_Example' do
+  pod 'CoordinatorSpec', :path => '../'
+
+  target 'CoordinatorSpec_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
